@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1700991003 source:c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minaFunktioner.h"
+	<time.h>
+
+1700836253 c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\slumpa.h
+
+1700933763 c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\lottery.h
+
+1700933426 source:c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\lottery.c
+	"lottery.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1700990959 source:c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\minafunktioner.c
+	"minaFunktioner.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1700987608 c:\kurser\isgb04programutveckling\c\lab3_lottogenerator\isgb04_lab3\minafunktioner.h
+	<stdio.h>
+
